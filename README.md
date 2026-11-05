@@ -39,4 +39,4 @@ BIT Mesra CSE '27 · Backend & Infra Engineer · Prev SDE Intern [@ PromptCue](#
 
 ## Activity
 
-[![Vaibhav's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavanandsingh&theme=github-light&hide_border=true&hide_title=true&area=true)](https://github.com/Vaibhavanandsingh)
+[![Vaibhav's contribution chart](https://ghchart.rshah.org/409ba5/Vaibhavanandsingh)](https://github.com/Vaibhavanandsingh)
