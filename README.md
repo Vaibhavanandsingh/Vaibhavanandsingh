@@ -24,14 +24,17 @@ BIT Mesra CSE '27 · Backend & Infra Engineer · Prev SDE Intern [@ PromptCue](#
 
 ### Experience
 
-1. **SDE Intern — PromptCue** *(7 months)*: Built an AI aggregator on Next.js with Redis caching.
+1. **Software Development Engineer — AgriPulse** *(Mar 2026 – Aug 2026)*: Wrote 33 of the team's 54 commits and merged 19 pull requests, covering the FastAPI service layer and a webhook so slow AI analyses return later instead of blocking the request. Blocked prompt injection by allowlisting numeric fields in the prompt, moved CORS off a wildcard, migrated the front end from React to Next.js, and added 74 tests. Python, FastAPI, Next.js.
+
+2. **SDE Intern — PromptCue** *(7 months)*: Built an AI aggregator on Next.js with Redis caching.
 
 ### Achievements
+1. **Rank 129 of 4,428 (top 3%)**, ICPC 2026 Online Challenge 1 powered by Huawei.
 
-1. **1st place — CICADA-CTF, PANTHEON TECHFEST**, ahead of 50+ teams.
-2. **Runner-up — Hackfest'25, IIT (ISM) Dhanbad**: 2nd in a problem-statement track.
-3. **Runner-up — Hackatron'25, BIT Sindri**: 2nd overall.
-4. **3 pull requests merged** into a CNCF sandbox project (KubeArmor).
+2. **1st place — CICADA-CTF, PANTHEON TECHFEST**, ahead of 50+ teams.
+3. **Runner-up — Hackfest'25, IIT (ISM) Dhanbad**: 2nd in a problem-statement track.
+4. **Runner-up — Hackatron'25, BIT Sindri**: 2nd overall.
+5. **3 pull requests merged** into a CNCF sandbox project (KubeArmor).
 
 ### Education
 
